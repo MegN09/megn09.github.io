@@ -1,3 +1,3 @@
 # poetry-frick
 Once I've reviewed my poetry, I'll post it here (Unless it's been published elsewhere).
-I'm kinda lazy, haven't hosted/created an index, etc. but feel free to check out the poems.
+Click index.html for more info and a list of poems. Kinda annoying reading w/ code but haven't figured out the hosting yet so yea.
